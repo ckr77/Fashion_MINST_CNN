@@ -2,7 +2,7 @@
 My first foray into CNN for Visual Recognition using Fashion MINST dataset.
 This repo consists of 3 different jupyter notebooks which have been developed using Colaboratory.
 
-First Notebook (FirstCNN.ipynb) used the Keras sequention model from this blog post
+First Notebook (FirstCNN.ipynb) used the Keras sequential model from this blog post
 
 https://colab.research.google.com/github/margaretmz/deep-learning/blob/master/fashion_mnist_keras.ipynb#scrollTo=aFe4wHGRFKle
 
